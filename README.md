@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Internship Project  
 ## 🧠 Prompt Injection Attack Demonstration Using a Chatbot
-
+![image alt](image_url)(https://github.com/nidhii-05A/CyberSecurity-Internship/blob/33d772be88042952e8ff90852f17e906fd5d6fb5/Screenshot%202025-05-12%20145351.png)
 ---
 
 ### 📌 Problem Statement
