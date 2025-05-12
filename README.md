@@ -131,3 +131,4 @@ Prompt Injection is a significant and growing threat to AI system security.
 This project provides a functional, educational demonstration of detection and defense techniques against these attacks.
 
 With continued development, this chatbot prototype can evolve into a robust AI safety module suitable for enterprise environments.
+
